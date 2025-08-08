@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Yehia
 
-<!--
-**AhmedYehia30/AhmedYehia30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Student @ Tanta University**  
+💻 **Currently learning:** Web Development, Python, C++, Java  
+🚀 **Goal:** Build useful projects and grow as a developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- **Languages:** Python, C++, Java, HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** Responsive Web Design, Problem Solving
+
+---
+
+## 📂 My Projects
+Here are some of my beginner-friendly projects:
+- 🖩 [Simple Calculator](#) - Basic calculator using HTML/CSS/JS
+- 📋 [To-Do List App](#) - Manage your tasks easily
+- 🔢 [BMI Calculator](#) - Calculate your Body Mass Index
+
+---
+
+## 🌱 Currently Working On
+- Building my first portfolio website
+- Practicing algorithms & problem-solving
+
+---
+
+## 📫 How to reach me
+- **Email:** ahmedyehya781@gmail.com  
+- **LinkedIn:** 
+- **GitHub:** 
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
